@@ -12,14 +12,14 @@ can send it back to the clients that are connected to the server.
 
 ## Build and execute
 
-To compile this project, you need to change directory to build directory by cd build
+To compile this project, you need to change directory to build directory by `cd build`
 
 Then remove the directory content when you are compiling it for the first time with typing 
-rm -rf *
+`rm -rf *`
 Be carefull to be in the build directory before doing this
 
-Type cmake ..
+Type `cmake ..`
 
-Finally type make -j2
+Finally type `make -j2`
 
-An executable file will be created, so you can execute it typing ./uwoc_server
+An executable file will be created, so you can execute it typing `./uwoc_server`
