@@ -847,7 +847,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "test_server"
+			"value" : "uwoc_server"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1195,6 +1195,42 @@
 		},
 		{
 			"name" : "test_server_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/kevinrives/CLionProjects/uwoc_server"
+		},
+		{
+			"name" : "uwoc_server_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/kevinrives/CLionProjects/uwoc_server/cmake-build-debug"
+		},
+		{
+			"name" : "uwoc_server_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "uwoc_server_SOURCE_DIR",
 			"properties" : 
 			[
 				{

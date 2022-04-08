@@ -14,7 +14,8 @@ can send it back to the clients that are connected to the server.
 
 To compile this project, you need to change directory to build directory by cd build
 
-Then remove the directory content when you are compiling it for the first time with typing rm -rf *
+Then remove the directory content when you are compiling it for the first time with typing 
+rm -rf *
 Be carefull to be in the build directory before doing this
 
 Type cmake ..

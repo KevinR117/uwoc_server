@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "test_server"
+			"path" : "uwoc_server"
 		}
 	],
 	"backtrace" : 1,
@@ -96,7 +96,7 @@
 			]
 		}
 	],
-	"id" : "test_server::@6890427a1f51a3e7e1df",
+	"id" : "uwoc_server::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -112,8 +112,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "test_server",
-	"nameOnDisk" : "test_server",
+	"name" : "uwoc_server",
+	"nameOnDisk" : "uwoc_server",
 	"paths" : 
 	{
 		"build" : ".",

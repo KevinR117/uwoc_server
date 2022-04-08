@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "test_server",
+					"name" : "uwoc_server",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "test_server::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_server-Debug-ca6bb48b8a5808d2d56f.json",
-					"name" : "test_server",
+					"id" : "uwoc_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uwoc_server-Debug-b6f1c79cd9b9a66c323f.json",
+					"name" : "uwoc_server",
 					"projectIndex" : 0
 				}
 			]
